@@ -8,3 +8,18 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Cursor IDE
+.cursor/
+*.code-workspace
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
