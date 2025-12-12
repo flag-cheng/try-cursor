@@ -1,0 +1,22 @@
+hola - 你好 / 嗨
+adiós - 再見
+por favor - 請
+gracias - 謝謝
+lo siento - 抱歉
+sí - 是
+no - 不是
+¿dónde? - 哪裡？
+¿cuándo? - 什麼時候？
+¿qué? - 什麼？
+¿por qué? - 為什麼？
+baño - 廁所
+agua - 水
+comida - 食物
+ayuda - 幫助
+amigo - 朋友
+familia - 家人
+trabajo - 工作
+dinero - 金錢
+tiempo - 時間
+mañana - 明天 / 早上
+tarde - 下午 / 晚上
